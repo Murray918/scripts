@@ -34,7 +34,7 @@ npm i -g express-generator-api
 npm i -g nodemon
 
 # set up git so there are no warnings
-git config --golbal user.email darbyguitars@gmail.com
+git config --global user.email darbyguitars@gmail.com
 git config --global user.name 'Andrew Murray'
 
 # install snap for snap packages
