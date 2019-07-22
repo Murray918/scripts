@@ -41,7 +41,7 @@ git config --global user.name 'Andrew Murray'
 sudo apt install snapd
 
 # api testing suite
-sanp install postman
+snap install postman
 
 # preferred email client
 snap install mailspring
